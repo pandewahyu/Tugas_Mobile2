@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'dasboard_aplikasi.dart' as dashboard;
+import 'ui/dashboard_app.dart' as dashboard;
 
 void main() {
   runApp(new MaterialApp(
